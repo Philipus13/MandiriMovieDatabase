@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003661</color>
+    <color name="colorAccent">#1B6CB1</color>
+    <color name="colorBackground">#E0E7FF</color>
+    <color name="tintBackgroundImage">#CBE4E7FC</color>
+    <color name="colorCardBackground">#B2EAEDFD</color>
+    <color name="colorPopupWindow">#EAEDFD</color>
+    <color name="colorPopupWindowBackground">#65EAEDFD</color>
+
+    <color name="colorCancelButtonBackground">#838383</color>
+
+    <color name="colorNavigationViewBackground">#E6E4E7FC</color>
+    <color name="navigationViewItem">#686868</color>
+
+    <color name="iconBlack">#535353</color>
+    <color name="iconYellow">#F9A825</color>
+
+    <color name="itemTextDarkGrey">#595959</color>
+    <color name="itemTextLightGrey">#808080</color>
+
+    <!-- DISCOVER -->
+
+    <color name="colorCategoryBackground">#B2EAEDFD</color>
+    <color name="colorSubcategoryText">#3D3D47</color>
+
+    <!-- MOVIES -->
+
+    <color name="cardTitle">#3C3C3C</color>
+    <color name="cardContent">#686868</color>
+
+    <color name="detailsTop">#D21B1B1B</color>
+    <color name="detailsTitle">#FFFFFF</color>
+    <color name="detailsContent">#C2C2C2</color>
+    <color name="detailsDescription">#242424</color>
+
+    <color name="personDetails">#202020</color>
+
+    <!-- PERSONAL -->
+
+    <color name="customListTitleBlack">#242424</color>
+
+</resources>
